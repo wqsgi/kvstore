@@ -65,7 +65,6 @@ func (p *Packet) readFormConn(conn net.Conn)error{
 }
 
 func (p *Packet) writeConn(conn net.Conn)error{
-
 }
 
 // 类型
