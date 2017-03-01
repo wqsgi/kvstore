@@ -30,16 +30,12 @@ type Store interface {
 	Open(config StoreConfig)error
 	Close()error
 	Put(key,value []byte)error
-	Get(key []byte)error
+	Get(key []byte)(value []byte,error)
 	Delete(key []byte)error
 	Merge()// 合并log数据。
 	DumpIndexFile()error // dump索引数据。
 
 }
 
-type StoreConfig struct {
-	FileMax uint32
 
-
-}
 
