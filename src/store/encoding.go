@@ -9,6 +9,9 @@ const (
 	HFileHaderSize = 20
 )
 
+const(
+	Magic uint32= 0xED0CDAEE
+)
 // crc32(4) timestamp 8 keysize 4 valuesize 4
 func encodingHFileData(key, value []byte, timestamp uint64, version uint32) []byte {
 	keySize := uint16(len(key))

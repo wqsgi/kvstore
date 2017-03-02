@@ -13,12 +13,6 @@ type HLog struct {
 
 }
 
-type Offset struct {
-	fid uint16
-	offset uint32
-	size uint16
-	version uint32
-}
 
 //索引文件
 type HIndexFile struct {
