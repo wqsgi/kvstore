@@ -11,7 +11,6 @@ type indexStore struct {
 }
 
 func (is *indexStore) load(file *os.File){
-
 	is.tree.Put()
 
 }

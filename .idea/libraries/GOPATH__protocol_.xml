@@ -1,10 +1,38 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;protocol&gt;">
     <CLASSES>
-      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud-gw" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/新建文件夹" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud-api-gw/src/jcloud.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/piproxy" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jd.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jimdb-cfs" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/json_test" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud-api-gw" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jvmgo-book" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/github.com" />
     </CLASSES>
     <SOURCES>
-      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud-gw" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/新建文件夹" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud-api-gw/src/jcloud.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/piproxy" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jd.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jimdb-cfs" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/json_test" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jcloud-api-gw" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/jvmgo-book" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../GO_SOURCE/src/github.com" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
